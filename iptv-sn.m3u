@@ -15,12 +15,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1 ,CCTV5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 ,CCTV5
-http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226395/index.m3u8?世界杯WorldCup
-#EXTINF:-1 ,CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8?世界杯WorldCup
-#EXTINF:-1 ,CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?世界杯WorldCup
 #EXTINF:-1 ,CCTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 ,CCTV5+
@@ -51,8 +45,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 ,CCTV16
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 ,CCTV16
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 ,CCTV17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 ,电视指南
@@ -159,10 +151,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 #EXTINF:-1 ,西藏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-#EXTINF:-1 ,安多卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 #EXTINF:-1 ,新疆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
 #EXTINF:-1 ,兵团卫视
@@ -254,7 +242,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 #EXTINF:-1 ,IPTV相声小品
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 #EXTINF:-1 ,NewTV精彩体育
-http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226010/index.m3u8?世界杯WorldCup
+http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226010/index.m3u8
 #EXTINF:-1 ,爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 ,上海纪实人文
@@ -307,9 +295,5 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226348/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 ,中央新影发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 ,百视通超级体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-#EXTINF:-1 ,百视通超级体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
 #EXTINF:-1 ,哈哈炫动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
