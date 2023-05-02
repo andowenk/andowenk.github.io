@@ -152,3 +152,16 @@ TVB明珠台,http://r.jdshipin.com/ZQ4kN
 4K超高清电影,ttp://r.jdshipin.com/5DWJk
 翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 上海教育台,http://live.cooltv.top/tv/setv.php
+求索动物,http://39.134.136.138:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+求索生活,http://39.134.136.138:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索科学,http://39.134.136.138:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索纪录,http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+上海都市,https://epg.pw/stream/c8128c8adbad60c6a682563553e83ec574a10fe9c08c27182c2aaedf83577bc0.m3u8
+劉德華,https://epg.pw/stream/63578a57ad5687d0a05c1bb0b4a7db448696351a4b47794b1c65b15832a6272a.ctv
+北京新聞,https://epg.pw/stream/0e34a3fa339548c5eddbbbc3d4c0f59d405cd2e078682512483caa59504b69c0.ctv
+永嘉新聞綜合,https://epg.pw/stream/70e02fac68a176aaab7a071c9a32897e304b9f33d28e1960d495769357cd4585.m3u8
+浙江國際,https://epg.pw/stream/a142999c79e159e519e35eec3a1022b615d47541343b5efed096b7b6699a067d.m3u8
+浙江新聞,https://epg.pw/stream/bc9f5d820fa4ae751848486eed9e6595e1e5367545cd0227b04b49cfa7eb7828.m3u8
+浙江民生休閒,https://epg.pw/stream/d661a3106e64c29e099d49b40bf3909a1332a0e7f8b7028b73e43ceb3d67bda7.m3u8
+浙江經濟生活,https://epg.pw/stream/f71e7065aaf2fab2c4b610fc5e39bb926c70045dd384675191f1cc4131dec2ba.m3u8
+溫州新聞綜合,https://epg.pw/stream/537e1e3f879824dd4e78f6a1e75d40c21da7bd1ce97a2c3c66d737aabb27c197.m3u8
