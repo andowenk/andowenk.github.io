@@ -116,8 +116,6 @@ CCTV4欧洲,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240363_1/playli
 四川卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
 青海卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8
 河北卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226611/index.m3u8
-CCTV5,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
-CCTV5+,http://[2409:8087:4402:20:1:1216:401:12]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
 生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 NewTV精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225709/index.m3u8
 NewTV精品大剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225714/index.m3u8
