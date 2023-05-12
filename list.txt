@@ -42,8 +42,6 @@ CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -63,7 +61,6 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001679/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -76,10 +73,7 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-极速汽车,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-游戏风云,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 游戏风云,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-全纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 都市剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -90,11 +84,11 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海纪实人文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-乐游频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 城固,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002375/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰中文HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 TVBS-HD,https://pull-l3-cny.douyincdn.com/live/stream-1121752023042001218.m3u8
 TVBS新闻台HD,https://pull-l3-cny.douyincdn.com/live/stream-1121752023042001243.m3u8
@@ -157,7 +151,7 @@ TVB明珠台,http://r.jdshipin.com/ZQ4kN
 求索科学,http://39.134.136.138:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索纪录,http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 上海都市,https://epg.pw/stream/c8128c8adbad60c6a682563553e83ec574a10fe9c08c27182c2aaedf83577bc0.m3u8
-劉德華,https://epg.pw/stream/63578a57ad5687d0a05c1bb0b4a7db448696351a4b47794b1c65b15832a6272a.ctv
+劉德華剧场,https://epg.pw/stream/63578a57ad5687d0a05c1bb0b4a7db448696351a4b47794b1c65b15832a6272a.ctv
 北京新聞,https://epg.pw/stream/0e34a3fa339548c5eddbbbc3d4c0f59d405cd2e078682512483caa59504b69c0.ctv
 永嘉新聞綜合,https://epg.pw/stream/70e02fac68a176aaab7a071c9a32897e304b9f33d28e1960d495769357cd4585.m3u8
 浙江國際,https://epg.pw/stream/a142999c79e159e519e35eec3a1022b615d47541343b5efed096b7b6699a067d.m3u8
